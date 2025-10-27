@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "humble-farmer",
   "VITE_ORDERLY_BROKER_NAME": "Humble Farmer DEX",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/TaikiMaeda2",
   "VITE_SEO_SITE_NAME": "Humble Farmer DEX",
   "VITE_SEO_SITE_DESCRIPTION": "where humble farmers trade",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/humble-farmer-dex-8072/",
+  "VITE_SEO_SITE_URL": "https://perps.hfaresearch.io",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@HumbleFarmerDEX",
